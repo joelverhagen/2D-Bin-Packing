@@ -1,7 +1,6 @@
 #ifndef PACKINGTREENODE_H
 #define PACKINGTREENODE_H
 
-#include "BinaryTree.h"
 #include "SFML/Graphics.hpp"
 
 class PackingTreeNode
@@ -75,8 +74,5 @@ public:
 		}
 	}
 };
-
-
-
 
 #endif
